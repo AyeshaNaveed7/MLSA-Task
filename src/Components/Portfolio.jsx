@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/space.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "hi there, i am ayesha, and here is an image of space";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hospital Inventory Management System 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a Hospital Inventory Management System using Java on VS Code.",
+    url: " https://ayeshanaveed7.github.io/Hospital-Inventory-Management-System/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Three D Printer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Made a simple software for a 3D Printer using Java on VS Code.",
+    url: "https://ayeshanaveed7.github.io/ThreeDPrinter/",
   },
   {
-    title: "My Resume Site",
+    title: "Hospital Requirments Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a Hospital Requirments Management system using Java on VS Code.",
+    url: "https://ayeshanaveed7.github.io/Hospital-Requirements-Management-System/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction to GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Machine Learning and Automation.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7045586041038098432?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
